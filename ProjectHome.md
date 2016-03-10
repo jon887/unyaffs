@@ -1,0 +1,1 @@
+Unyaffs is a program to extract files from a yaffs file system image. Now it can only extract images created by mkyaffs2image.
